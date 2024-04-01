@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/huat/action/AddToCarAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/action/AdminAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/action/CommodityAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/action/CommodityClassAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/action/GoIndexAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/action/MessageAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/action/OrderFormAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/action/UserAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/dao/AdminDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/dao/CommodityClassDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/dao/CommodityDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/dao/MessageDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/dao/OrderFormDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/dao/UserDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/dao/impl/AdminDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/dao/impl/CommodityClassDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/dao/impl/CommodityDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/dao/impl/MessageDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/dao/impl/OrderFormDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/dao/impl/UserDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/po/Admin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/po/Commodity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/po/CommodityClass.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/po/Message.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/po/OrderForm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/po/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/service/AdminService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/service/CommodityClassService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/service/CommodityService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/service/MessageService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/service/OrderFormService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/service/UserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/service/impl/AdminServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/service/impl/CommodityClassServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/service/impl/CommodityServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/service/impl/MessageServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/service/impl/OrderFormServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/huat/service/impl/UserServiceImpl.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
